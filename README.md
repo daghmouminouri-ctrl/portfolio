@@ -4,7 +4,8 @@ An Excel-based portfolio tracker for monitoring holdings, allocation, gains/loss
 
 ## What this workbook does
 
-The tracker records each position with fields for ticker, name, shares, cost basis, current price, market value, total cost, gain/loss, return percentage, and portfolio weight. It groups holdings into three buckets — stocks, ETFs, and alternative assets — and rolls them into a portfolio total section plus a summary area for allocation and concentration analysis.
+The tracker records each position with fields for ticker, name, shares, cost basis, current price, market value, total cost, gain/loss, return percentage, and portfolio weight. It groups holdings into three buckets; 
+stocks, ETFs and alternative assets and rolls them into a portfolio total section plus a summary area for allocation and concentration analysis.
 
 ## Workbook structure
 
@@ -24,9 +25,9 @@ It includes the full position list, portfolio totals, asset-class allocation, an
 
 ## Asset categories currently used
 
-| Stocks | Individual equity positions such as NVIDIA, Apple, Microsoft, Alphabet, Coca-Cola, PepsiCo, Meta, Amazon, Waste Management, Hormel, Nike, ASML, TELUS, Duke Energy, and Enbridge 
-| ETFs | Broad or thematic fund exposure, including QQQ-related and S&P 500 positions
-| Alternative | Non-core diversifiers such as gold, bitcoin exposure, and other non-traditional positions 
+Stocks;  Individual equity positions such as NVIDIA, Apple, Microsoft, Alphabet, Coca-Cola, PepsiCo, Meta, Amazon, Waste Management, Hormel, Nike, ASML, TELUS, Duke Energy, and Enbridge 
+ETFs;  Broad or thematic fund exposure, including QQQ-related and S&P 500 positions
+Alternative; Non-core diversifiers such as gold, bitcoin exposure, and other non-traditional positions 
 
 ## How to use it
 
